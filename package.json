@@ -17,8 +17,7 @@
     "deep-q-learning"
   ],
   "author": {
-    "name": "Jan Hünermann",
-    "url": "http://janhuenermann.com/"
+    "name": "Sebatian Buzza"
   },
   "license": "MIT",
   "devDependencies": {
